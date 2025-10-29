@@ -1,0 +1,216 @@
+Phylum,Class,Order,Family,Genus,Species,aphiaID,species_filter,method,lifestyle
+Annelida,Polychaeta,Phyllodocida,Nereididae,Alitta,Alitta virens,234851,alitta virens,both,Mixed
+Annelida,Polychaeta,Terebellida,Terebellidae,Amphitrite,Amphitrite figulus,155162,amphitrite figulus,both,Infaunal 
+Annelida,Polychaeta,NA,Capitellidae,Capitella,Capitella capitata,129876,capitella capitata,both,Infaunal
+Annelida,Polychaeta,NA,Maldanidae,Clymenella,Clymenella torquata,130279,clymenella torquata,both,Infaunal 
+Annelida,Polychaeta,Terebellida,Cirratulidae,Dodecaceria,Dodecaceria concharum,129967,dodecaceria concharum,both,Mixed
+Annelida,Polychaeta,Phyllodocida,Glyceridae,Glycera,Glycera dibranchiata,157392,glycera dibranchiata,both,Infaunal
+Annelida,Polychaeta,Phyllodocida,Polynoidae,Harmothoe,Harmothoe imbricata,130769,harmothoe imbricata,both,Epifaunal
+Annelida,Polychaeta,Phyllodocida,Nereididae,Hediste,Hediste diversicolor,152302,hediste diversicolor,both,Infaunal 
+Annelida,Polychaeta,Phyllodocida,Phyllodocidae,Hypereteone,Hypereteone heteropoda,333652,hypereteone heteropoda,both,Mixed
+Annelida,Polychaeta,NA,Orbiniidae,Leitoscoloplos,Leitoscoloplos acutus,607421,leitoscoloplos acutus,both,Infaunal 
+Annelida,Polychaeta,Phyllodocida,Polynoidae,Lepidonotus,Lepidonotus squamatus,130801,lepidonotus squamatus,both,Epifaunal
+Annelida,Polychaeta,Spionida,Spionidae,Marenzelleria,Marenzelleria viridis,131135,marenzelleria viridis,both,Infaunal 
+Annelida,Polychaeta,Eunicida,Lumbrineridae,Ninoe,Ninoe nigripes,130255,ninoe nigripes,both,Infaunal 
+Annelida,Polychaeta,Terebellida,Pectinariidae,Pectinaria,Pectinaria gouldii,334421,pectinaria gouldi,both,Infaunal 
+Annelida,Polychaeta,Terebellida,Flabelligeridae,Pherusa,Pherusa affinis,157526,pherusa affinis,both,Infaunal
+Annelida,Polychaeta,Phyllodocida,Sigalionidae,Pholoe,Pholoe minuta,130603,pholoe minuta,both,Mixed
+Annelida,Polychaeta,Terebellida,Terebellidae,Polycirrus,Polycirrus eximius,157533,polycirrus eximius,both,Infaunal 
+Annelida,Polychaeta,Spionida,Spionidae,Polydora,Polydora cornuta,131143,polydora cornuta,both,Infaunal 
+Annelida,Polychaeta,Eunicida,Dorvilleidae,Schistomeringos,Schistomeringos longicornis,334731,schistomeringos longicornis,both,Mixed
+Annelida,Polychaeta,Spionida,Spionidae,Streblospio,Streblospio benedicti,131191,streblospio benedicti,both,Infaunal 
+Annelida,Polychaeta,Phyllodocida,Nereididae,Alitta,Alitta succinea,234850,alitta succinea,edna,Mixed
+Annelida,Clitellata,Tubificida,Naididae,Amphichaeta,Amphichaeta sannio,137477,amphichaeta sannio,edna,Infaunal 
+Annelida,Polychaeta,NA,Arenicolidae,Arenicola,Arenicola marina,129868,arenicola marina,edna,Infaunal
+Annelida,Polychaeta,NA,Capitellidae,Capitella,Capitella teleta,592089,capitella teleta,edna,Infaunal
+Annelida,Clitellata,Tubificida,Naididae,Clitellio,NA,137385,clitellio,edna,Infaunal 
+Annelida,Clitellata,Tubificida,Naididae,Clitellio,Clitellio arenarius,1070860,clitellio arenarius,edna,Infaunal 
+Annelida,Polychaeta,NA,Dinophilidae,Dinophilus,Dinophilus gardineri,326922,dinophilus gardineri,edna,Epifaunal
+Annelida,Clitellata,Enchytraeida,Enchytraeidae,Lumbricillus,Lumbricillus lineatus,137438,lumbricillus lineatus,edna,Infaunal 
+Annelida,Clitellata,Enchytraeida,Enchytraeidae,Lumbricillus,Lumbricillus rivalis,137449,lumbricillus rivalis,edna,Infaunal 
+Annelida,Polychaeta,Terebellida,Terebellidae,Nicolea,Nicolea zostericola,131508,nicolea zostericola,edna,Infaunal 
+Annelida,Clitellata,Tubificida,Naididae,Paranais,Paranais botniensis,137483,paranais botniensis,edna,Infaunal 
+Annelida,Clitellata,Tubificida,Naididae,Paranais,Paranais litoralis,137485,paranais litoralis,edna,Infaunal 
+Annelida,Polychaeta,Sabellida,Sabellidae,Parasabella,Parasabella microphthalma,530927,parasabella microphthalma,edna,Epifaunal
+Annelida,Polychaeta,Spionida,Spionidae,Polydora,Polydora onagawaensis,1611501,polydora onagawaensis,edna,Infaunal 
+Annelida,Polychaeta,NA,Polygordiidae,Polygordius,Polygordius jouinae,390168,polygordius jouinae,edna,Infaunal 
+Annelida,Polychaeta,Spionida,Spionidae,Pseudopolydora,Pseudopolydora paucibranchiata,131168,pseudopolydora paucibranchiata,edna,Infaunal
+Annelida,Clitellata,Tubificida,Naididae,Tubificoides,Tubificoides benedii,137571,tubificoides benedii,edna,Infaunal 
+Annelida,Polychaeta,Terebellida,Ampharetidae,Ampharete,Ampharete finmarchica,129778,ampharete finmarchica,traditional,Infaunal
+Annelida,Polychaeta,Terebellida,Terebellidae,Amphitrite,NA,129686,amphitrite,traditional,Infaunal 
+Annelida,Polychaeta,Eunicida,Oenonidae,Arabella,Arabella iricolor,129854,arabella iricolor,traditional,Infaunal 
+Annelida,Polychaeta,NA,Paraonidae,Aricidea,Aricidea catherinae,130554,aricidea catherinae,traditional,Infaunal 
+Annelida,Polychaeta,Sabellida,Serpulidae,Circeis,Circeis spirillum,131201,circeis spirillum,traditional,Epifaunal
+Annelida,Polychaeta,NA,Maldanidae,Clymenella,Clymenella zonalis,157320,clymenella zonalis,traditional,Infaunal 
+Annelida,Polychaeta,Spionida,Spionidae,Dipolydora,NA,129611,dipolydora,traditional,Infaunal 
+Annelida,Polychaeta,Eunicida,Oenonidae,Drilonereis,NA,129200,drilonereis,traditional,Infaunal 
+Annelida,Polychaeta,Phyllodocida,Chrysopetalidae,Dysponetus,Dysponetus pygmaeus,129932,dysponetus pygmaeus,traditional,Epifaunal
+Annelida,Polychaeta,Phyllodocida,Phyllodocidae,Eteone,Eteone longa,130616,eteone longa,traditional,Mixed
+Annelida,Polychaeta,Phyllodocida,Phyllodocidae,Eulalia,Eulalia viridis,130639,eulalia viridis,traditional,Epifaunal
+Annelida,Polychaeta,Phyllodocida,Phyllodocidae,Eumida,Eumida sanguinea,130644,eumida sanguinea,traditional,Mixed
+Annelida,Polychaeta,Sabellida,Fabriciidae,Fabricia,Fabricia stellaris,130913,fabricia stellaris,traditional,Infaunal
+Annelida,Polychaeta,Phyllodocida,Glyceridae,Glycera,Glycera capitata,130118,glycera capitata,traditional,Infaunal
+Annelida,Polychaeta,Phyllodocida,Hesionidae,Gyptis,Gyptis bruneli,333519,gyptis bruneli,traditional,Epifaunal
+Annelida,Polychaeta,Phyllodocida,Hesionidae,Gyptis,Gyptis vittata,157414,gyptis vittata,traditional,Epifaunal
+Annelida,Polychaeta,Phyllodocida,Polynoidae,Harmothoe,Harmothoe extenuata,130762,harmothoe extenuata,traditional,Epifaunal
+Annelida,Polychaeta,NA,Capitellidae,Heteromastus,Heteromastus filiformis,129884,heteromastus filiformis,traditional,Infaunal
+Annelida,Polychaeta,Eunicida,Lumbrineridae,Lumbrineris,NA,129337,lumbrineris,traditional,Infaunal
+Annelida,Polychaeta,Eunicida,Dorvilleidae,Marycarmenia,Marycarmenia gaspeensis,333982,marycarmenia gaspeensis,traditional,Mixed
+Annelida,Polychaeta,NA,Capitellidae,Mediomastus,Mediomastus ambiseta,157482,mediomastus ambiseta,traditional,Infaunal
+Annelida,Polychaeta,Phyllodocida,Nephtyidae,Micronephthys,Micronephthys neotena,130349,micronephthys neotena,traditional,Infaunal 
+Annelida,Polychaeta,Phyllodocida,Microphthalmidae,Microphthalmus,NA,129313,microphthalmus,traditional,Epifaunal
+Annelida,Polychaeta,Phyllodocida,Nephtyidae,Nephtys,Nephtys caeca,130355,nephtys caeca,traditional,Infaunal 
+Annelida,Polychaeta,Phyllodocida,Nereididae,Nereis,NA,129379,nereis,traditional,Mixed
+Annelida,Polychaeta,NA,Opheliidae,Ophelia,NA,129413,ophelia,traditional,Infaunal 
+Annelida,Polychaeta,NA,Opheliidae,Ophelina,Ophelina acuminata,130500,ophelina acuminata,traditional,Mixed
+Annelida,Polychaeta,Phyllodocida,Syllidae,Parexogone,Parexogone hebes,757970,parexogone hebes,traditional,Mixed
+Annelida,Polychaeta,Phyllodocida,Phyllodocidae,Phyllodoce,Phyllodoce maculata,334510,phyllodoce maculata,traditional,Mixed
+Annelida,Polychaeta,Phyllodocida,Nereididae,Platynereis,NA,129381,platynereis,traditional,Epifaunal
+Annelida,Polychaeta,Spionida,Spionidae,Prionospio,Prionospio steenstrupi,131164,prionospio steenstrupi,traditional,Infaunal 
+Annelida,Polychaeta,Spionida,Spionidae,Pygospio,Pygospio elegans,131170,pygospio elegans,traditional,Infaunal 
+Annelida,Polychaeta,NA,Maldanidae,Sabaco,Sabaco elongatus,157550,sabaco elongatus,traditional,Infaunal 
+Annelida,Polychaeta,Eunicida,Lumbrineridae,Scoletoma,Scoletoma fragilis,130261,scoletoma fragilis,traditional,Infaunal 
+Annelida,Polychaeta,NA,Orbiniidae,Scoloplos,NA,129425,scoloplos,traditional,Infaunal 
+Annelida,Polychaeta,Phyllodocida,Sphaerodoridae,Sphaerodoridium,Sphaerodoridium minutum,155127,sphaerodoridium minutum,traditional,Infaunal 
+Annelida,Polychaeta,Spionida,Spionidae,Spio,Spio filicornis,131183,spio filicornis,traditional,Infaunal 
+Annelida,Polychaeta,Spionida,Spionidae,Spio,Spio setosa,157573,spio setosa,traditional,Infaunal 
+Annelida,Polychaeta,Spionida,Spionidae,Spiophanes,Spiophanes bombyx,131187,spiophanes bombyx,traditional,Infaunal 
+Annelida,Polychaeta,Sabellida,Serpulidae,Spirorbis,Spirorbis spirorbis,131237,spirorbis spirorbis,traditional,Epifaunal
+Annelida,Polychaeta,Terebellida,Cirratulidae,Tharyx,Tharyx acutus,155243,tharyx acutus,traditional,Infaunal
+Arthropoda,Malacostraca,Decapoda,Cancridae,Cancer,Cancer irroratus,158057,cancer irroratus,both,Epifaunal
+Arthropoda,Malacostraca,Amphipoda,Caprellidae,Caprella,Caprella penantis,101846,caprella penantis,both,Epifaunal
+Arthropoda,Malacostraca,Decapoda,Carcinidae,Carcinus,Carcinus maenas,107381,carcinus maenas,both,Epifaunal
+Arthropoda,Malacostraca,Decapoda,Crangonidae,Crangon,Crangon septemspinosa,158355,crangon septemspinosa,both,Epifaunal
+Arthropoda,Malacostraca,Amphipoda,Dexaminidae,Dexamine,Dexamine thea,102136,dexamine thea,both,Epifaunal
+Arthropoda,Malacostraca,Amphipoda,Gammaridae,Gammarus,Gammarus lawrencianus,158093,gammarus lawrencianus,both,Epifaunal
+Arthropoda,Malacostraca,Amphipoda,Gammaridae,Gammarus,Gammarus mucronatus,158094,gammarus mucronatus,both,Epifaunal
+Arthropoda,Malacostraca,Amphipoda,Gammaridae,Gammarus,Gammarus oceanicus,102285,gammarus oceanicus,both,Epifaunal
+Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,156134,homarus americanus,both,Epifaunal
+Arthropoda,Malacostraca,Isopoda,Janiridae,Jaera,Jaera albifrons,118715,jaera albifrons,both,Epifaunal
+Arthropoda,Malacostraca,Decapoda,Paguridae,Pagurus,Pagurus acadianus,158400,pagurus acadianus,both,Epifaunal
+Arthropoda,Malacostraca,Decapoda,Paguridae,Pagurus,Pagurus longicarpus,158403,pagurus longicarpus,both,Epifaunal
+Arthropoda,Thecostraca,Balanomorpha,Balanidae,Amphibalanus,Amphibalanus improvisus,421139,amphibalanus improvisus,edna,Epifaunal
+Arthropoda,Thecostraca,Balanomorpha,Balanidae,Balanus,Balanus crenatus,106215,balanus crenatus,edna,Epifaunal
+Arthropoda,Malacostraca,Amphipoda,Calliopiidae,Calliopius,Calliopius laeviusculus,102178,calliopius laeviusculus,edna,Epifaunal
+Arthropoda,Malacostraca,Decapoda,Cancridae,Cancer,Cancer borealis,158056,cancer borealis,edna,Epifaunal
+Arthropoda,Malacostraca,Decapoda,Panopeidae,Dyspanopeus,Dyspanopeus sayi,107412,dyspanopeus sayi,edna,Epifaunal
+Arthropoda,Malacostraca,Amphipoda,Ischyroceridae,Jassa,Jassa marmorata,102433,jassa marmorata,edna,Epifaunal
+Arthropoda,Malacostraca,Amphipoda,Corophiidae,Monocorophium,Monocorophium acherusicum,225814,monocorophium acherusicum,edna,Infaunal 
+Arthropoda,Malacostraca,Amphipoda,Corophiidae,Monocorophium,Monocorophium insidiosum,148592,monocorophium insidiosum,edna,Infaunal 
+Arthropoda,Malacostraca,Mysida,Mysidae,Mysis,Mysis gaspensis,157805,mysis gaspensis,edna,Epifaunal
+Arthropoda,Malacostraca,Amphipoda,Talitridae,Orchestia,Orchestia grillus,158123,orchestia grillus,edna,Epifaunal
+Arthropoda,Thecostraca,Balanomorpha,Balanidae,Semibalanus,Semibalanus balanoides,106210,semibalanus balanoides,edna,Epifaunal
+Arthropoda,Malacostraca,Amphipoda,Ampeliscidae,Ampelisca,Ampelisca vadorum,158022,ampelisca vadorum,traditional,Infaunal 
+Arthropoda,Malacostraca,Amphipoda,Ampithoidae,Ampithoe,Ampithoe valida,102005,ampithoe valida,traditional,Epifaunal
+Arthropoda,Malacostraca,Tanaidacea,Leptocheliidae,Chondrochelia,NA,880787,chondrochelia,traditional,Epifaunal
+Arthropoda,Malacostraca,Amphipoda,Corophiidae,Corophium,Corophium volutator,102101,corophium volutator,traditional,Infaunal 
+Arthropoda,Malacostraca,Cumacea,NA,NA,NA,1137,cumacea,traditional,Infaunal 
+Arthropoda,Malacostraca,Amphipoda,Gammaridae,Echinogammarus incertae sedis,Echinogammarus incertae sedis finmarchicus,1651000,echinogammarus incertae sedis finmarchicus,traditional,Epifaunal
+Arthropoda,Malacostraca,Isopoda,Idoteidae,Edotia,Edotia triloba,157885,edotia triloba,traditional,Epifaunal
+Arthropoda,Malacostraca,Amphipoda,Stenothoidae,Hardametopa,Hardametopa carinata,158099,hardametopa carinata,traditional,Mixed
+Arthropoda,Malacostraca,Tanaidacea,Leptocheliidae,Hargeria,Hargeria rapax,247538,hargeria rapax,traditional,Epifaunal
+Arthropoda,Malacostraca,Isopoda,Idoteidae,Idotea,Idotea balthica,119039,idotea balthica,traditional,Epifaunal
+Arthropoda,Malacostraca,Isopoda,Idoteidae,Idotea,Idotea phosphorea,157891,idotea phosphorea,traditional,Epifaunal
+Arthropoda,Malacostraca,Amphipoda,Ischyroceridae,Ischyrocerus,Ischyrocerus anguipes,102412,ischyrocerus anguipes,traditional,Mixed
+Arthropoda,Malacostraca,Amphipoda,Corophiidae,Leptocheirus,Leptocheirus pinguis,158112,leptocheirus pinguis,traditional,Infaunal 
+Arthropoda,Malacostraca,Tanaidacea,Leptocheliidae,Leptochelia,NA,136235,leptochelia,traditional,Infaunal 
+Arthropoda,Malacostraca,Mysida,Mysidae,Mysis,Mysis stenolepis,226994,mysis stenolepis,traditional,Epifaunal
+Arthropoda,Malacostraca,Amphipoda,Tryphosidae,Orchomenella,Orchomenella minuta,102690,orchomenella minuta,traditional,Infaunal 
+Arthropoda,Malacostraca,Decapoda,Palaemonidae,Palaemonetes,Palaemonetes vulgaris,158371,palaemonetes vulgaris,traditional,Epifaunal
+Arthropoda,Malacostraca,Amphipoda,Phoxocephalidae,Phoxocephalus,Phoxocephalus holbolli,102989,phoxocephalus holbolli,traditional,Infaunal 
+Arthropoda,Malacostraca,Amphipoda,Pontogeneiidae,Pontogeneia,Pontogeneia inermis,102223,pontogeneia inermis,traditional,Epifaunal
+Arthropoda,Malacostraca,Decapoda,Panopeidae,Rhithropanopeus,Rhithropanopeus harrisii,107414,rhithropanopeus harrisii,traditional,Epifaunal
+Arthropoda,Malacostraca,Amphipoda,Unciolidae,Unciola,Unciola irrorata,158156,unciola irrorata,traditional,Mixed
+Bryozoa,Gymnolaemata,Cheilostomatida,Membraniporidae,Membranipora,Membranipora membranacea,111411,membranipora membranacea,both,Epifaunal
+Bryozoa,Gymnolaemata,Ctenostomatida,Vesiculariidae,Amathia,Amathia gracilis,851589,amathia gracilis,edna,Epifaunal
+Bryozoa,Gymnolaemata,Cheilostomatida,Electridae,Conopeum,Conopeum tenuissimum,159808,conopeum tenuissimum,edna,Epifaunal
+Bryozoa,Gymnolaemata,NA,NA,NA,NA,NA,crisularia turrita,edna,Epifaunal
+Bryozoa,Gymnolaemata,Ctenostomatida,Flustrellidridae,Flustrellidra,Flustrellidra hispida,111621,flustrellidra hispida,edna,Epifaunal
+Bryozoa,Gymnolaemata,Cheilostomatida,Cribrilinidae,Juxtacribrilina,Juxtacribrilina mutabilis,1059484,juxtacribrilina mutabilis,edna,Epifaunal
+Chordata,Ascidiacea,Stolidobranchia,Styelidae,Botrylloides,Botrylloides violaceus,148715,botrylloides violaceus,edna,Epifaunal
+Cnidaria,Scyphozoa,Semaeostomeae,Ulmaridae,Aurelia,Aurelia aurita,135306,aurelia aurita,edna,Epifaunal
+Cnidaria,Hydrozoa,Anthoathecata,Bougainvilliidae,Bougainvillia,Bougainvillia muscus,117328,bougainvillia muscus,edna,Epifaunal
+Cnidaria,Hydrozoa,Anthoathecata,Hydractiniidae,Clava,Clava multicornis,117426,clava multicornis,edna,Epifaunal
+Cnidaria,Hydrozoa,Leptothecata,Campanulariidae,Clytia,Clytia hemisphaerica,117368,clytia hemisphaerica,edna,Epifaunal
+Cnidaria,Staurozoa,Stauromedusae,Craterolophidae,Craterolophus,Craterolophus convolvulus,135312,craterolophus convolvulus,edna,Epifaunal
+Cnidaria,Scyphozoa,Semaeostomeae,Cyaneidae,Cyanea,Cyanea capillata,135301,cyanea capillata,edna,Epifaunal
+Cnidaria,Hydrozoa,Leptothecata,Sertulariidae,Dynamena,Dynamena pumila,117888,dynamena pumila,edna,Epifaunal
+Cnidaria,Hydrozoa,Limnomedusae,Olindiidae,Gonionemus,Gonionemus vertens,117768,gonionemus vertens,edna,Epifaunal
+Cnidaria,Hydrozoa,Leptothecata,Campanulariidae,Gonothyraea,Gonothyraea loveni,117377,gonothyraea loveni,edna,Epifaunal
+Cnidaria,Staurozoa,Stauromedusae,Haliclystidae,Haliclystus,Haliclystus tenuis,287231,haliclystus tenuis,edna,Epifaunal
+Cnidaria,Hydrozoa,Anthoathecata,Tubulariidae,Hybocodon,Hybocodon prolifer,117988,hybocodon prolifer,edna,Epifaunal
+Cnidaria,Hydrozoa,Anthoathecata,Hydractiniidae,Hydractinia,Hydractinia echinata,117644,hydractinia echinata,edna,Epifaunal
+Cnidaria,Hydrozoa,Leptothecata,Campanulariidae,Laomedea,Laomedea flexuosa,117382,laomedea flexuosa,edna,Epifaunal
+Cnidaria,Hexacorallia,Actiniaria,Metridiidae,Metridium,Metridium senile,100982,metridium senile,edna,Epifaunal
+Cnidaria,Hydrozoa,Leptothecata,Campanulariidae,Obelia,Obelia bidentata,117385,obelia bidentata,edna,Epifaunal
+Cnidaria,Hydrozoa,Leptothecata,Campanulariidae,Obelia,Obelia dichotoma,117386,obelia dichotoma,edna,Epifaunal
+Cnidaria,Hydrozoa,Leptothecata,Campanulariidae,Obelia,Obelia geniculata,117388,obelia geniculata,edna,Epifaunal
+Cnidaria,Hydrozoa,Leptothecata,Campanulariidae,Obelia,Obelia longissima,117389,obelia longissima,edna,Epifaunal
+Cnidaria,Hydrozoa,Anthoathecata,Corynidae,Sarsia,Sarsia tubulosa,117491,sarsia tubulosa,edna,Epifaunal
+Cnidaria,Hexacorallia,Actiniaria,Metridiidae,Metridium,Metridium dianthus,158251,metridium dianthus,traditional,Epifaunal
+Echinodermata,Ophiuroidea,Amphilepidida,Amphiuridae,Amphipholis,Amphipholis squamata,125064,amphipholis squamata,both,Epifaunal
+Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,158489,asterias forbesi,both,Epifaunal
+Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias rubens,123776,asterias rubens,both,Epifaunal
+Echinodermata,Ophiuroidea,Amphilepidida,Ophiopholidae,Ophiopholis,Ophiopholis aculeata,125125,ophiopholis aculeata,both,Mixed
+Echinodermata,Echinoidea,Echinolampadacea,Echinarachniidae,Echinarachnius,Echinarachnius parma,158062,echinarachnius parma,edna,Mixed
+Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,124321,strongylocentrotus droebachiensis,edna,Epifaunal
+Hemichordata,Enteropneusta,Enteropneusta incertae sedis,Harrimaniidae,Saccoglossus,Saccoglossus kowalevskii,137600,saccoglossus kowalevskii,traditional,Infaunal 
+Mollusca,Bivalvia,Cardiida,Tellinidae,Ameritella,Ameritella agilis,878476,ameritella agilis,both,Infaunal 
+Mollusca,Gastropoda,Caenogastropoda incertae sedis,Cerithiidae,Bittiolum,Bittiolum varium,160174,bittiolum varium,both,Epifaunal
+Mollusca,Bivalvia,Ostreida,Ostreidae,Crassostrea,Crassostrea virginica,140657,crassostrea virginica,both,Epifaunal
+Mollusca,Gastropoda,Littorinimorpha,Calyptraeidae,Crepidula,Crepidula fornicata,138963,crepidula fornicata,both,Epifaunal
+Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,Ecrobia,Ecrobia truncata,574096,ecrobia truncata,both,Epifaunal
+Mollusca,Bivalvia,Venerida,Veneridae,Gemma,Gemma gemma,156803,gemma gemma,both,Infaunal 
+Mollusca,Gastropoda,Cephalaspidea,Haminoeidae,Haminella,Haminella solitaria,1342053,haminella solitaria,both,Epifaunal
+Mollusca,Gastropoda,Neogastropoda,Nassariidae,Ilyanassa,Ilyanassa trivittata,467492,ilyanassa trivittata,both,Mixed
+Mollusca,Gastropoda,Littorinimorpha,Littorinidae,Lacuna,Lacuna vincta,140170,lacuna vincta,both,Epifaunal
+Mollusca,Gastropoda,Littorinimorpha,Littorinidae,Littorina,Littorina littorea,140262,littorina littorea,both,Epifaunal
+Mollusca,Gastropoda,Littorinimorpha,Littorinidae,Littorina,Littorina obtusata,140263,littorina obtusata,both,Epifaunal
+Mollusca,Gastropoda,Littorinimorpha,Littorinidae,Littorina,Littorina saxatilis,140264,littorina saxatilis,both,Epifaunal
+Mollusca,Gastropoda,Ellobiida,Ellobiidae,Melampus,Melampus bidentatus,160368,melampus bidentatus,both,Epifaunal
+Mollusca,Bivalvia,Venerida,Mactridae,Mulinia,Mulinia lateralis,156870,mulinia lateralis,both,Infaunal 
+Mollusca,Bivalvia,Myida,Myidae,Mya,Mya arenaria,140430,mya arenaria,both,Infaunal 
+Mollusca,Bivalvia,Mytilida,Mytilidae,Mytilus,Mytilus edulis,140480,mytilus edulis,both,Epifaunal
+Mollusca,Bivalvia,Cardiida,Cardiidae,Parvicardium,Parvicardium pinnulatum,181343,parvicardium pinnulatum,both,Infaunal 
+Mollusca,Bivalvia,Venerida,Veneridae,Petricolaria,Petricolaria pholadiformis,156961,petricolaria pholadiformis,both,Infaunal 
+Mollusca,Gastropoda,NA,Lottiidae,Testudinalia,Testudinalia testudinalis,234208,testudinalia testudinalis,both,Epifaunal
+Mollusca,Gastropoda,NA,Pyramidellidae,Turbonilla,Turbonilla powhatani,160088,turbonilla powhatani,both,Epifaunal
+Mollusca,Gastropoda,NA,Limapontiidae,Alderia,Alderia modesta,141555,alderia modesta,edna,Epifaunal
+Mollusca,Gastropoda,NA,Pyramidellidae,Boonea,Boonea bisuturalis,397024,boonea bisuturalis,edna,Epifaunal
+Mollusca,Gastropoda,Nudibranchia,Trinchesiidae,Catriona,Catriona gymnota,141611,catriona gymnota,edna,Epifaunal
+Mollusca,Gastropoda,Nudibranchia,Coryphellidae,Coryphella,Coryphella verrucosa,139987,coryphella verrucosa,edna,Epifaunal
+Mollusca,Gastropoda,Littorinimorpha,Calyptraeidae,Crepidula,Crepidula convexa,160228,crepidula convexa,edna,Epifaunal
+Mollusca,Cephalopoda,Myopsida,Loliginidae,Doryteuthis,Doryteuthis pealeii,574541,doryteuthis pealeii,edna,Pelagic
+Mollusca,Gastropoda,Nudibranchia,Dotidae,Doto,Doto coronata,139631,doto coronata,edna,Epifaunal
+Mollusca,Gastropoda,NA,Plakobranchidae,Elysia,Elysia catulus,160278,elysia catulus,edna,Epifaunal
+Mollusca,Gastropoda,NA,Limapontiidae,Ercolania,Ercolania fuscata,160304,ercolania fuscata,edna,Epifaunal
+Mollusca,Bivalvia,Mytilida,Mytilidae,Geukensia,Geukensia demissa,156859,geukensia demissa,edna,Epifaunal
+Mollusca,Bivalvia,Cardiida,Tellinidae,Limecola,Limecola petalum,880026,limecola petalum,edna,Infaunal 
+Mollusca,Gastropoda,Trochida,Margaritidae,Margarites,Margarites helicinus,141821,margarites helicinus,edna,Epifaunal
+Mollusca,Bivalvia,Mytilida,Modiolidae,Modiolus,Modiolus modiolus,140467,modiolus modiolus,edna,Epifaunal
+Mollusca,Bivalvia,Mytilida,Mytilidae,Mytilus,Mytilus trossulus,140482,mytilus trossulus,edna,Epifaunal
+Mollusca,Gastropoda,Nudibranchia,Onchidorididae,Onchidoris,Onchidoris muricata,140640,onchidoris muricata,edna,Epifaunal
+Mollusca,Gastropoda,Littorinimorpha,Cochliopidae,Spurwinkia,Spurwinkia salsa,160412,spurwinkia salsa,edna,Epifaunal
+Mollusca,Gastropoda,Nudibranchia,Trinchesiidae,Tenellia,Tenellia adspersa,141639,tenellia adspersa,edna,Infaunal 
+Mollusca,Gastropoda,Nudibranchia,Tergipedidae,Tergipes,Tergipes tergipes,141641,tergipes tergipes,edna,Epifaunal
+Mollusca,Gastropoda,Cephalaspidea,Tornatinidae,Acteocina,Acteocina canaliculata,160065,acteocina canaliculata,traditional,Epifaunal
+Mollusca,Bivalvia,Pectinida,Anomiidae,Anomia,Anomia simplex,156737,anomia simplex,traditional,Epifaunal
+Mollusca,Gastropoda,Neogastropoda,Columbellidae,Astyris,Astyris lunata,160102,astyris lunata,traditional,Epifaunal
+Mollusca,Bivalvia,Carditida,Carditidae,Cyclocardia,Cyclocardia borealis,156832,cyclocardia borealis,traditional,Infaunal 
+Mollusca,Bivalvia,Adapedonta,Pharidae,Ensis,Ensis leei,876640,ensis leei,traditional,Infaunal 
+Mollusca,Bivalvia,Adapedonta,Hiatellidae,Hiatella,Hiatella arctica,140103,hiatella arctica,traditional,Epifaunal
+Mollusca,Gastropoda,Neogastropoda,Nassariidae,Ilyanassa,Ilyanassa obsoleta,467490,ilyanassa obsoleta,traditional,Mixed
+Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma,Macoma balthica,141579,macoma balthica,traditional,Infaunal 
+Mollusca,Bivalvia,Venerida,Veneridae,Mercenaria,Mercenaria mercenaria,141919,mercenaria mercenaria,traditional,Infaunal 
+Mollusca,Gastropoda,NA,Pyramidellidae,Odostomia,NA,138413,odostomia,traditional,Epifaunal
+Mollusca,Bivalvia,Solemyida,Solemyidae,Petrasma,Petrasma borealis,1465606,petrasma borealis,traditional,Infaunal 
+Mollusca,Gastropoda,Littorinimorpha,Rissoidae,NA,NA,123,rissoidae,traditional,Epifaunal
+Nemertea,Pilidiophora,Heteronemertea,Lineidae,Cerebratulus,Cerebratulus lacteus,147322,cerebratulus lacteus,both,Infaunal 
+Nemertea,Pilidiophora,Heteronemertea,Lineidae,Parvicirrus,Parvicirrus dubius,155924,parvicirrus dubius,edna,Infaunal 
+Nemertea,Pilidiophora,Heteronemertea,Lineidae,Lineus,Lineus ruber,122536,lineus ruber,traditional,Infaunal 
+Platyhelminthes,NA,Rhabdocoela,Promesostomidae,Astrotorhynchus,Astrotorhynchus hakaiensis,1079201,astrotorhynchus hakaiensis,edna,Infaunal 
+Platyhelminthes,NA,Dolichomicrostomida,Microstomidae,Microstomum,Microstomum septentrionale,142799,microstomum septentrionale,edna,Infaunal 
+Porifera,Demospongiae,Clionaida,Clionaidae,Cliona,Cliona celata,134121,cliona celata,edna,Epifaunal
+Porifera,Demospongiae,Suberitida,Halichondriidae,Halichondria,Halichondria bowerbanki,132588,halichondria bowerbanki,edna,Epifaunal
+Porifera,Demospongiae,Suberitida,Halichondriidae,Halichondria,Halichondria panicea,132627,halichondria panicea,edna,Epifaunal
+Porifera,Demospongiae,Haplosclerida,Chalinidae,Haliclona,Haliclona oculata,236327,haliclona oculata,edna,Epifaunal

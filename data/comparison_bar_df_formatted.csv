@@ -1,0 +1,23 @@
+"Phylum","Method","Status","Count"
+"Annelida","Traditional","Shared",18
+"Annelida","Traditional","Traditional Only",43
+"Annelida","eDNA","eDNA Only",18
+"Arthropoda","Traditional","Shared",12
+"Arthropoda","Traditional","Traditional Only",21
+"Arthropoda","eDNA","eDNA Only",10
+"Bryozoa","Traditional","Shared",1
+"Bryozoa","eDNA","eDNA Only",5
+"Chordata","eDNA","eDNA Only",2
+"Cnidaria","Traditional","Traditional Only",1
+"Cnidaria","eDNA","eDNA Only",21
+"Echinodermata","Traditional","Shared",4
+"Echinodermata","eDNA","eDNA Only",3
+"Hemichordata","Traditional","Traditional Only",1
+"Mollusca","Traditional","Shared",18
+"Mollusca","Traditional","Traditional Only",14
+"Mollusca","eDNA","eDNA Only",22
+"Nemertea","Traditional","Shared",1
+"Nemertea","Traditional","Traditional Only",1
+"Nemertea","eDNA","eDNA Only",1
+"Platyhelminthes","eDNA","eDNA Only",2
+"Porifera","eDNA","eDNA Only",4
