@@ -16,7 +16,3 @@ __Fig 3.__ MetaNMDS analysis of invertebrate species composition (presence-absen
 
 __Fig 4.__ MetaNMDS analysis of aggregate invertebrate species composition (presence-absence) in coastal Nova Scotia eelgrass beds. Analysis based on Jaccard dissimilarity.
 
-![](output/inshore_ecosystem_survey_locations.png)
-
-__Fig 5.__ Inshore Ecosystem Survey locations from 2007 that will be used as a point of comparison. 
-
